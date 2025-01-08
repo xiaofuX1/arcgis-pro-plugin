@@ -1,10 +1,4 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2025-01-01",
-  "changelog": [
-    "修复了性能问题。",
-    "增加了新的功能，支持XYZ。",
-    "优化了用户界面。"
-  ],
+  "version": "1.3.3",
   "downloadUrl": "https://github.com/xiaofuX1/arcgis-pro-plugin/raw/refs/heads/main/plugin.esriAddinX"
 }
